@@ -36,6 +36,7 @@ homebrew_installed_packages:
   - neofetch
   - e2fsprogs
   - syncthing
+  - bash
 
 homebrew_taps:
   - homebrew/core
