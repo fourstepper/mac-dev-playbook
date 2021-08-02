@@ -45,6 +45,7 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - iterm2
   - alacritty
+  - element
   - slack
   - vagrant
   - docker
