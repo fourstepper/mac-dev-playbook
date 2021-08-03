@@ -37,6 +37,7 @@ homebrew_installed_packages:
   - e2fsprogs
   - syncthing
   - bash
+  - ripgrep
 
 homebrew_taps:
   - homebrew/core
@@ -46,11 +47,12 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - iterm2
   - alacritty
+  - telegram
   - element
   - slack
   - vagrant
   - docker
-  - chromium
+  - eloston-chromium
   # maybe not this, will see
   - easy-move-plus-resize
   - spotify
