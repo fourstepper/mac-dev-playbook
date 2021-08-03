@@ -19,6 +19,7 @@ dockitems_persist: []
 
 homebrew_installed_packages:
   - terraform
+  - terragrunt
   - gnupg
   - bitwarden-cli
   - picocom
