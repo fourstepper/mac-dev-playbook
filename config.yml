@@ -47,6 +47,7 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - iterm2
   - alacritty
+  - google-cloud-sdk
   - telegram
   - element
   - slack
