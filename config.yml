@@ -40,6 +40,8 @@ homebrew_installed_packages:
   - syncthing
   - bash
   - ripgrep
+  - k9s
+  - pinentry
 
 homebrew_taps:
   - homebrew/core
@@ -47,6 +49,8 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - vscodium
+  - visual-studio-code
   - iterm2
   - alacritty
   - google-cloud-sdk
