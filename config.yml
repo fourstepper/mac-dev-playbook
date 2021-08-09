@@ -43,7 +43,6 @@ homebrew_installed_packages:
   - k9s
   - pinentry
   - openconnect
-  - gocryptfs
 
 homebrew_taps:
   - homebrew/core
@@ -61,7 +60,7 @@ homebrew_cask_apps:
   - slack
   - vagrant
   - docker
-  - eloston-chromium
+  - chromium
   # maybe not this, will see
   - easy-move-plus-resize
   - spotify
