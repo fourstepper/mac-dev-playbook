@@ -43,6 +43,7 @@ homebrew_installed_packages:
   - k9s
   - pinentry
   - openconnect
+  - gocryptfs
 
 homebrew_taps:
   - homebrew/core
