@@ -42,6 +42,7 @@ homebrew_installed_packages:
   - ripgrep
   - k9s
   - pinentry
+  - openconnect
 
 homebrew_taps:
   - homebrew/core
