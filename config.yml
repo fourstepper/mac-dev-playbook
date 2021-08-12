@@ -43,6 +43,7 @@ homebrew_installed_packages:
   - k9s
   - pinentry
   - openconnect
+  - speedtest-cli
 
 homebrew_taps:
   - homebrew/core
@@ -61,8 +62,6 @@ homebrew_cask_apps:
   - vagrant
   - docker
   - chromium
-  # maybe not this, will see
-  - easy-move-plus-resize
   - spotify
   - signal
   - joplin
