@@ -18,6 +18,7 @@ dockitems_persist: []
 #   pos: 5
 
 homebrew_installed_packages:
+  - helm
   - terraform
   - terragrunt
   - gnupg
@@ -44,6 +45,8 @@ homebrew_installed_packages:
   - pinentry
   - openconnect
   - speedtest-cli
+  - watch
+  - bash-completion@2
 
 homebrew_taps:
   - homebrew/core
@@ -51,7 +54,6 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - vscodium
   - visual-studio-code
   - iterm2
   - alacritty
