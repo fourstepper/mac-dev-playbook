@@ -18,6 +18,7 @@ dockitems_persist: []
 #   pos: 5
 
 homebrew_installed_packages:
+  - hugo
   - helm
   - terraform
   - terragrunt
@@ -47,6 +48,7 @@ homebrew_installed_packages:
   - speedtest-cli
   - watch
   - bash-completion@2
+  - telnet
 
 homebrew_taps:
   - homebrew/core
