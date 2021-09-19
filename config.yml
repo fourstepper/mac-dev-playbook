@@ -35,7 +35,6 @@ homebrew_installed_packages:
   - wget
   - curl
   - whois
-  - bash-completion
   - neovim
   - tmux
   - neofetch
@@ -66,7 +65,6 @@ homebrew_cask_apps:
   - slack
   - vagrant
   - docker
-  - chromium
   - spotify
   - signal
   - joplin
