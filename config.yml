@@ -39,6 +39,7 @@ homebrew_installed_packages:
   - tmux
   - neofetch
   - e2fsprogs
+  - tree
   - syncthing
   - bash
   - ripgrep
@@ -49,10 +50,12 @@ homebrew_installed_packages:
   - watch
   - bash-completion@2
   - telnet
+  - qmk
 
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
+  - qmk/qmk
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
