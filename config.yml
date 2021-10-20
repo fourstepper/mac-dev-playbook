@@ -51,6 +51,7 @@ homebrew_installed_packages:
   - bash-completion@2
   - telnet
   - qmk
+  - fzf
 
 homebrew_taps:
   - homebrew/core
