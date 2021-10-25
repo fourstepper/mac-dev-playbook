@@ -56,6 +56,7 @@ homebrew_installed_packages:
   # LSP
   - terraform-ls
   - gopls
+  - tflint
 
 homebrew_taps:
   - homebrew/core
