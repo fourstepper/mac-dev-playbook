@@ -57,6 +57,7 @@ homebrew_installed_packages:
   - terraform-ls
   - gopls
   - tflint
+  - yarn
 
 homebrew_taps:
   - homebrew/core
@@ -65,6 +66,9 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - android-platform-tools
+  - firefox
+  - brave-browser
   - insomnia
   - visual-studio-code
   - iterm2
@@ -85,9 +89,11 @@ npm_packages:
 
 pip_packages:
   - name: jedi-language-server
+  - name: python-language-server
 # - name: mkdocs
 #   state: present # present/absent/latest, default: present
 #   version: "0.16.3" # default: N/A
 
 # Glob pattern to ansible task files to run after all other tasks are finished.
-post_provision_tasks: []
+post_provision_tasks:
+  - tasks/yarn.yml

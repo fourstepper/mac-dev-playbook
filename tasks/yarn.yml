@@ -1,0 +1,4 @@
+- name: Install yaml-language-server
+  yarn:
+    name: yaml-language-server
+    global: yes
