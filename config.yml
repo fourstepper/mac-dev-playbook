@@ -82,6 +82,7 @@ homebrew_cask_apps:
   - spotify
   - signal
   - joplin
+  - stretchly
 
 npm_packages:
   - name: bash-language-server
