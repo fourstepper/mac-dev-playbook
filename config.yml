@@ -89,6 +89,7 @@ npm_packages:
   - name: dockerfile-language-server-nodejs
 
 pip_packages:
+  - name: asciinema
   - name: jedi-language-server
   - name: python-language-server
 # - name: mkdocs
