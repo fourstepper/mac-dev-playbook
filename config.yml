@@ -66,6 +66,8 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - pomotroid
+  - obs
   - android-platform-tools
   - firefox
   - brave-browser
