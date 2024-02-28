@@ -10,6 +10,7 @@ configure_dock: false
 mas_installed_apps:
   - { id: 1475387142, name: "Tailscale" }
   - { id: 1352778147, name: "Bitwarden" }
+  - { id: 310633997, name: "WhatsApp Messenger" }
 
 homebrew_installed_packages:
   - bash-completion
