@@ -19,10 +19,10 @@ homebrew_installed_packages:
   - sops
   - hugo
   - helm
+  - opentofu
   - terraform
   - terragrunt
   - gnupg
-  - bitwarden-cli
   - picocom
   - go
   - node
@@ -41,11 +41,12 @@ homebrew_installed_packages:
   - ripgrep
   - k9s
   - pinentry
-  - openconnect
   - speedtest-cli
   - watch
   - telnet
   - fzf
+  - docker
+  - colima
 
 homebrew_taps: []
   # - homebrew/core
@@ -53,16 +54,13 @@ homebrew_taps: []
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - karabiner-elements
   - rectangle
   - obs
   - firefox
   - visual-studio-code
-  - iterm2
   - alacritty
-  - google-cloud-sdk
   - element
-  - slack
-  - docker
   - spotify
   - signal
   - joplin
