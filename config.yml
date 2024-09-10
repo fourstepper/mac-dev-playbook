@@ -77,7 +77,7 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - easy-move-plus-resize
   - karabiner-elements
-  - logitech-options
+  - logi-options-plus
   - rectangle
   - obs
   - firefox
