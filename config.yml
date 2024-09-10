@@ -44,6 +44,7 @@ homebrew_installed_packages:
   - node
   - jq
   - git
+  - git-lfs
   - nmap
   - openssl
   - wget
