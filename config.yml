@@ -58,6 +58,7 @@ homebrew_installed_packages:
   - ripgrep
   - k9s
   - kubernetes-cli
+  - kind
   - pinentry
   - pinentry-mac
   - speedtest-cli
@@ -81,6 +82,7 @@ homebrew_cask_apps:
   - rectangle
   - obs
   - firefox
+  - chromium
   - alacritty
   - element
   - spotify
