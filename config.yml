@@ -69,6 +69,9 @@ homebrew_installed_packages:
   - colima
   - MonitorControl
   - direnv
+  # ruby stuff
+  - ruby
+  - rbenv
 
 homebrew_taps: []
   # - homebrew/core
