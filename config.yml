@@ -94,6 +94,7 @@ homebrew_cask_apps:
   - joplin
   - chatbox
   - rocket-chat
+  - discord
 
 npm_packages: []
 
