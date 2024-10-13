@@ -95,6 +95,7 @@ homebrew_cask_apps:
   - chatbox
   - rocket-chat
   - discord
+  - keycastr
 
 npm_packages: []
 
