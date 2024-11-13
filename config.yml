@@ -96,6 +96,7 @@ homebrew_cask_apps:
   - rocket-chat
   - discord
   - keycastr
+  - netnewswire
 
 npm_packages: []
 
