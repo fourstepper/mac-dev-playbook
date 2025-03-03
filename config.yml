@@ -29,6 +29,7 @@ mas_installed_apps:
   - { id: 310633997, name: "WhatsApp Messenger" }
 
 homebrew_installed_packages:
+  - htop
   - bash-completion
   - gh
   - glab
