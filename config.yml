@@ -10,17 +10,11 @@ dockitems_remove:
   - Launchpad
   - TV
   - Music
-  - Notes
-  - Contacts
   - Keynote
   - Numbers
   - Pages
   - App Store
   - Safari
-  - FaceTime
-  - Messages
-  - Maps
-  - Photos
   - Freeform
 
 mas_installed_apps:
@@ -68,7 +62,6 @@ homebrew_installed_packages:
   - fzf
   - docker
   - colima
-  - MonitorControl
   - direnv
   # ruby stuff
   - ruby
@@ -92,6 +85,7 @@ homebrew_cask_apps:
   - alacritty
   - element
   - spotify
+  - slack
   - signal
   - joplin
   - chatbox
