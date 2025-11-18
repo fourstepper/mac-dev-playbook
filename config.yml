@@ -21,6 +21,7 @@ mas_installed_apps:
   - { id: 1475387142, name: "Tailscale" }
   - { id: 1352778147, name: "Bitwarden" }
   - { id: 310633997, name: "WhatsApp Messenger" }
+  - { id: 1451685025, name: "WireGuard" }
 
 homebrew_installed_packages:
   - htop
@@ -41,6 +42,7 @@ homebrew_installed_packages:
   - git
   - git-lfs
   - nmap
+  - siege
   - openssl
   - wget
   - curl
@@ -73,7 +75,6 @@ homebrew_taps: []
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - virtualbox@beta
   - git-credential-manager
   - easy-move-plus-resize
   - karabiner-elements
