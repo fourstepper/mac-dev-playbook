@@ -75,6 +75,7 @@ homebrew_taps: []
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - font-jetbrains-mono-nerd-font
   - git-credential-manager
   - easy-move-plus-resize
   - karabiner-elements
