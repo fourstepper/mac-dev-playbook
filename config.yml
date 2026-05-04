@@ -68,6 +68,8 @@ homebrew_installed_packages:
   # ruby stuff
   - ruby
   - rbenv
+  # python stuff
+  - uv
 
 homebrew_taps: []
   # - homebrew/core
@@ -95,6 +97,7 @@ homebrew_cask_apps:
   - discord
   - keycastr
   - netnewswire
+  - rocket
 
 npm_packages: []
 
