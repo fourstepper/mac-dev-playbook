@@ -87,17 +87,11 @@ homebrew_cask_apps:
   - firefox
   - chromium
   - alacritty
-  - element
-  - spotify
   - slack
   - signal
   - joplin
-  - chatbox
-  - rocket-chat
-  - discord
   - keycastr
   - netnewswire
-  - rocket
 
 npm_packages: []
 
